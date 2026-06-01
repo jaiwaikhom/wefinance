@@ -24,5 +24,9 @@ mountpoint: https://drive.google.com/drive/folders/1sGmkgl_t-7EM4nJmg96BIhoV2D2w
 >>>>>>> 1e8dd3c (update fstab.yaml)
 =======
 mountpoints:
+<<<<<<< HEAD
   /: https://drive.google.com/drive/folders/1sGmkgl_t-7EM4nJmg96BIhoV2D2wJuXd?usp=drive_link
 >>>>>>> c389824 (updating fstab.yaml with new mountpoint for root directory)
+=======
+  /: https://drive.google.com/drive/folders/1qQPDEIjWdvmZmYPndfbViVzWFmxzPTuK
+>>>>>>> f45462e (update fstab.yaml)
