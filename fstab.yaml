@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 mountpoints:
   /:
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
     suffix: ".html"
+=======
+mountpoint: 
+  /: https://drive.google.com/drive/folders/1sGmkgl_t-7EM4nJmg96BIhoV2D2wJuXd?usp=drive_link
+>>>>>>> 249ca2d (added google drive path to fstab.yaml)
